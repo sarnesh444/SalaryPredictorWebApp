@@ -1,1 +1,2 @@
 # SalaryPredictorWebApp
+## This is a web application that is built using HTML CSS and Flask,a Simple Linear Regression model is used to predict the salary when number of years of experience is given as input,the pickle module of python is used to pickle the model and render the application on the go instead of incuring the cost of training the model when a HTTP request is triggered,for the same a pretrained,pickled model is used flask a python library is used in the backend to facilitate the entire process.
